@@ -1,0 +1,12 @@
+{
+  "games": [
+    {
+      "appid": "1510030",
+      "name": "Knights-College",
+      "depot_id": "1510031",
+      "manifest_id": "144636852970103784",
+      "manifest_url": "https://raw.githubusercontent.com/GALGIS-bit/My-Repo/main/manifests/1510031_144636852970103784.manifest",
+      "lua_url": "https://raw.githubusercontent.com/GALGIS-bit/My-Repo/main/manifests/1510030.lua"
+    }
+  ]
+}
